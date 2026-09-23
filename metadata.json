@@ -1,0 +1,6 @@
+{
+  "name": "DocSchedule",
+  "description": "Doctor appointments app featuring consultation sitting in/out timings, doctor leave status, and slot booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
